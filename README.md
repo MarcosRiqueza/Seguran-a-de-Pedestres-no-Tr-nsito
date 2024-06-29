@@ -1,6 +1,7 @@
 # Segurança de Pedestres no Trânsito
 
-Este projeto visa melhorar a segurança dos pedestres no trânsito através de uma aplicação que ...
+Este projeto visa melhorar a segurança dos pedestres em travessia em locais com faixa no trânsito através de uma aplicação descomplicada favorecendo crianças,deficientes visuais e idosos.
+Este projeto também será criado um aplicativo para aparelhos em breve sendo empregado outras tecnologias. 
 
 ## Funcionalidades
 
